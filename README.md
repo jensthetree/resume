@@ -1,6 +1,6 @@
 # Jens Peterson
 
-![alt text](../image.png)
+![profile picture](image.png)
 ## Education
 \* Bachelor's in Data Science from [Clark University](https://www.clarku.edu/) 2024
 
